@@ -1,5 +1,19 @@
-to JCPC/Shee6-STLs2/.clangd
-/to JCPC/Shee6-STLs2/.cph
-to JCPC/Shee6-STLs2/input.txt
-to JCPC/Shee6-STLs2/output.txt
-to JCPC/Shee6-STLs2/P_Laptops.exe
+# Compiled Binaries & Executables
+*.exe
+*.out
+*.app
+
+# Competitive Programming Input/Output files
+input.txt
+output.txt
+
+# Scratchpad & temporary code files
+SolveHere.cpp
+SolveHere.exe
+tempCodeRunnerFile.cpp
+
+# IDE & Tooling Caches
+.clangd/
+.cph/
+.vscode/
+.vs/
