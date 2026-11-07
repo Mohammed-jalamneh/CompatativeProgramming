@@ -1,5 +1,6 @@
 # Compiled Binaries & Executables
 *.exe
+*.bin
 *.out
 *.app
 
