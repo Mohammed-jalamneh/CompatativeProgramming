@@ -24,7 +24,7 @@ void solve() {
 
     ll p = (power(2, n, MOD) - 1 + MOD) % MOD;
     
-                                                                                                                       ll ans = (p * (x % MOD)) % MOD;
+    ll ans = (p * (x % MOD)) % MOD;
 
     cout << ans << "\n";
 }
